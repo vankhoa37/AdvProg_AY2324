@@ -239,4 +239,3 @@ int Game::getHeight(){
 Snake Game::getSnake(){
 	return snake;
 }
-
